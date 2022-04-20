@@ -1,0 +1,21 @@
+h1{
+  color: black;
+  font-size: 200%;
+  font-family: "Roboto";
+}
+
+p{
+  font-family: "Roboto";
+  text-indent: 20px;
+  margin-left:20px;
+}
+
+#content{
+  background-color: #ac97c7;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #444444;
+  font-size: 20px;
+}
