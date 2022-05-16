@@ -32,6 +32,9 @@ p{
   margin: 10px;
   border: solid 1px #201F23;
 }
+.selected {
+  color: purple;
+}
 #dog{
   color: #AA75EA;
 }
@@ -42,7 +45,7 @@ body {
     margin: 2em;
 }
 #output{
-  color: purple;
-  font-size: 400px;
+  color: lightblue;
+  font-size: 400;
   font-family: "helvetica";
 }

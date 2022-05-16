@@ -32,6 +32,9 @@ p{
   margin: 10px;
   border: solid 1px #201F23;
 }
+.selected {
+  color: purple;
+}
 #dog{
   color: #AA75EA;
 }
